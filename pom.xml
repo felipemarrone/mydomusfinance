@@ -6,7 +6,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.mydomusfinance</groupId>
-	<artifactId>organization-manager</artifactId>
+	<artifactId>user-manager</artifactId>
 	<version>1.0-SNAPSHOT</version>
 
 	<properties>
